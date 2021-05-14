@@ -1,10 +1,9 @@
+import 'dart:convert';
+
 import 'package:http/http.dart' as http;
 import 'package:pp_weather_app/model/coordinates.dart';
 import 'package:pp_weather_app/model/weather_forecast_response.dart';
 import 'package:pp_weather_app/model/weather_response.dart';
-import 'dart:convert';
-import 'package:flutter/foundation.dart';
-import 'package:flutter/material.dart';
 
 class WeatherService {
   Future<WeatherResponse> getWeather(String city) async {
