@@ -3,9 +3,10 @@
 A cross-platform and web application which displays information about weather and sends notification with Firebase.  
 
 ### Weather app on Android 
+![Web Image](https://github.com/katzeX/pp-weather-app/blob/master/images/android_with_notifications.png)
 
-###Weather app on WEB
-
+### Weather app on WEB
+![Android Image](https://github.com/katzeX/pp-weather-app/blob/master/images/web.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
